@@ -1,2 +1,0 @@
-# termux-virus-
-Termux virus 
