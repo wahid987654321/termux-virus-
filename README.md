@@ -13,4 +13,6 @@ Termux virus
 
 ⛔ ls
  
-⛔ bash 
+⛔ bash Termux.sh
+
+
