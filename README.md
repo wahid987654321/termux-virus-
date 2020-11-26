@@ -5,6 +5,8 @@ Termux virus
 
 ⛔ pkg install bash 
 
-⛔ git clone 
-⛔
-⛔
+⛔ git clone https://github.com/heshanTMD/termux-virus-
+
+⛔ ls
+
+⛔ cd 
