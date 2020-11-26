@@ -9,4 +9,8 @@ Termux virus
 
 ⛔ ls
 
-⛔ cd 
+⛔ cd termux-virus-
+
+⛔ ls
+ 
+⛔ bash 
